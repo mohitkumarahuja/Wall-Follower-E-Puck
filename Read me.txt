@@ -1,0 +1,11 @@
+This project was made for Autonomous robotics course.
+
+There are two folders containing:
+
+Folder No. 1: For the First Problem given to us which was Move the robot forward and stop at 2 cm of the Wall.
+
+Folder No. 2: For the Second Problem given to us which was to follow the wall at 1 cm from the wall.
+
+The code is being pasted in a text file in both the folders to have a quick look on it.
+
+Thank you.
